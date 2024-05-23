@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script>
+        
+function matchPassword() 
+{  
+  var pw1 = document.getElementById("pswd1");  
+  var pw2 = document.getElementById("pswd2"); 
+  if(pw1 == "" || pw2 =="") 
+  {  
+  alert("Fill the password please");   
+  }   
+  if(pw1 != pw2)  
+  {   
+    alert("Password does not match");  
+  } else {  
+    alert("Account created successfully");  
+  }  
+} 
+    </script>
+  <link rel="stylesheet" href="signup.css">
+  <title>Signup Page</title>
+</head>
+<body>
+    <section>
+        <div class="form-box">
+            <div class="form-value">
+                <form action="">
+                    <h2>Sign Up</h2>
+                    <div class="inputbox">
+                        <ion-icon name="mail-outline"></ion-icon>
+                        <input type="email" required>
+                        <label for="">Email</label>
+                    </div>
+                    <div class="inputbox">
+                        <ion-icon name="lock-closed-outline"></ion-icon>
+                        <input type="password" id="pswd1"required>
+                        <label for="">Password</label>
+                    </div>
+                    <div class="inputbox">
+                        <ion-icon name="lock-closed-outline"></ion-icon>
+                        <input type="password" id="pswd2" required>
+                        <label for="">Confirm Password</label>
+                    </div>
+
+                    <div class="text">
+                        you can also create an account with <br>
+                    </div>
+                    <div class="icons" style="position: relative;left: 28%;font-size: 22px;"><p>
+                    <a href=""><ion-icon name="logo-google"></ion-icon></a>
+                    <a href=""><ion-icon name="logo-facebook"></ion-icon></a>
+                    <a href=""><ion-icon name="logo-apple"></ion-icon></a>
+                    <a href=""><ion-icon name="logo-xbox"></ion-icon></a>
+                    </p></div>
+                    
+                    <button type="submit" onclick="matchPassword()">Create Account</button>
+                </form>
+            </div>
+        </div>
+    </section>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
