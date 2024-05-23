@@ -1,1 +1,1 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pillowfort.social%2F2700lagostas%2Ftagged%2Fvalorant&psig=AOvVaw0U9TJa4ge2xgeURuQ51W8-&ust=1716535500905000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDdhYqfo4YDFQAAAAAdAAAAABBI
+![02bd51cd7a8c5a2b50a0](https://github.com/silverxz704/vanguard/assets/94590146/14591568-6e6c-4dd5-b84b-7fc1ec50af11)
