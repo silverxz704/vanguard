@@ -1,6 +1,6 @@
 
 
-<h1><img style="display: inline;" src="https://media.tenor.com/Ip3LYNcDTu0AAAAi/valorant-omen.gif" alt="logo" width="40" height="40" margin-top:100px />VANGUARD</h1>
+<h1><img src="https://media.tenor.com/Ip3LYNcDTu0AAAAi/valorant-omen.gif" alt="logo" width="40" height="40" />VANGUARD</h1>
 
 A simple gaming website that displays the homepage, sign-in, sign-up form, and FAQ section with simple dynamic features (only front-end based). The project's goal is to demonstrate the fundamentals of HTML/CSS, in which HTML provides web page structure and CSS is primarily used to govern web page appearance. 
 
