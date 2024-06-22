@@ -1,5 +1,12 @@
-<img src="https://media.tenor.com/Ip3LYNcDTu0AAAAi/valorant-omen.gif" width="40" height="40" />
-<h1>VANGUARD🕹️💻🖲️</h1>
+<div class="header">
+  <img src="https://media.tenor.com/Ip3LYNcDTu0AAAAi/valorant-omen.gif" style="float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;" />
+<h1 style="position: relative;
+  top: 18px;
+  left: 10px;">VANGUARD🕹️💻🖲️</h1>
+</div>
 
 
 A simple gaming website that displays the homepage, sign-in, sign-up form, and FAQ section with simple dynamic features (only front-end based). The project's goal is to demonstrate the fundamentals of HTML/CSS, in which HTML provides web page structure and CSS is primarily used to govern web page appearance. 
