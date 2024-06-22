@@ -1,4 +1,4 @@
-<img style="display: inline; height: "40" width: "40";" src="https://media.tenor.com/Ip3LYNcDTu0AAAAi/valorant-omen.gif" alt="logo" />
+<img style="display: inline; height:40; width:40;" src="https://media.tenor.com/Ip3LYNcDTu0AAAAi/valorant-omen.gif" alt="logo" />
 <h1 style="display: inline;">VANGUARD</h1>
 
 
